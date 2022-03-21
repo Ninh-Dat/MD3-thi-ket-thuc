@@ -1,0 +1,1 @@
+<a href="{{route("sells.index")}}" class="btn btn-success">Danh sách</a>
